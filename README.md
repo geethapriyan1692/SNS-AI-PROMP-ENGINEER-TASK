@@ -1,4 +1,4 @@
-# SNS-AI-PROMP-ENGINEER-TASK
+# GENAI--PROMP-ENGINEER-TASK
 ## Overview
 This repository contains solutions to multiple interview tasks involving Natural Language Processing (NLP), deep learning, prompt engineering, data analysis, and API integration. Below is a brief description of each task along with the key techniques and libraries used.
 
